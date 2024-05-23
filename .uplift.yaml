@@ -1,0 +1,15 @@
+# uplift.yaml
+# see https://upliftci.dev/
+bumps:
+  - file: main.go
+    regex:
+      - pattern: 'const appVersion = "$VERSION"'
+annotatedTags: true
+changelog:
+  exclude:
+    - "chore"
+    - "refactor"
+    - "style"
+    - "test"
+    - "wip"
+commitMessage: "chore(release): $VERSION"
