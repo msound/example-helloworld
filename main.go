@@ -5,5 +5,5 @@ import "log"
 const appVersion = "v0.1.0"
 
 func main() {
-	log.Println("Helloworld", appVersion)
+	log.Println("Hello world", appVersion)
 }
