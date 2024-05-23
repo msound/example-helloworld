@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased
 
+## [v0.1.1](https://github.com/msound/example-helloworld/releases/tag/v0.1.1) - 2024-05-23
+
+- [`2d6fc1e`](https://github.com/msound/example-helloworld/commit/2d6fc1e1fcf607de3fadc8f37b6c4c1fac9fb07d) fix: split helloworld into two words
+
 ## [v0.1.0](https://github.com/msound/example-helloworld/releases/tag/v0.1.0) - 2024-05-23
 
 - [`403188f`](https://github.com/msound/example-helloworld/commit/403188f3a6897228423d1195dbf912375c98e320) feat: print hello world
