@@ -2,7 +2,7 @@ package main
 
 import "log"
 
-const appVersion = "v0.0.1"
+const appVersion = "v0.1.0"
 
 func main() {
 	log.Println("Helloworld", appVersion)
